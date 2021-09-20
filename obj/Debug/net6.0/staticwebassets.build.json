@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "081QcR9lFbwRMLwm9Zc72FwyKQ6NDuWqm0LriqJ2SIw=",
+  "Source": "Clinician-View-Server",
+  "BasePath": "_content/Clinician-View-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
